@@ -15,10 +15,10 @@ ENV USER root
 ENV COLOR_GREEN '\033[0;32m'
 ENV COLOR_OFF '\033[0m'
 
-ADD scripts/script.sh /root/script.sh
+ADD scripts/asciinema.sh /root/asciinema.sh
 
 #Permissions
 RUN \
-  chmod u+x /root/script.sh
+  chmod u+x /root/asciinema.sh
 
-CMD ["/root/script.sh"]
+CMD ["/root/asciinema.sh"]
