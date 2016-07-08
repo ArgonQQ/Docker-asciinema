@@ -1,5 +1,5 @@
 # Docker-Asciinema
-![docker-asciinema](https://cloud.githubusercontent.com/assets/14231786/16653614/f2027fd6-4451-11e6-8b5a-5f7418837f43.png)
+![asciinema-banner2](https://cloud.githubusercontent.com/assets/14231786/16686224/066fa3b2-4511-11e6-86b6-464a3b3a3f90.png)
 
 
 This image allows you to record your terminal in a docker container. You can upload it any time you want (private or public) authenticate with your already existing [Account](https://asciinema.org/) and share your terminal in seconds with your friends.
